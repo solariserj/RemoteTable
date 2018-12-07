@@ -1,0 +1,6 @@
+framework module Pods_RemoteTable {
+  umbrella header "Pods-RemoteTable-umbrella.h"
+
+  export *
+  module * { export * }
+}
